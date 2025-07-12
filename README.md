@@ -1,3 +1,4 @@
+<img src="https://github.com/baneen778/baneen778/blob/main/Black%20Minimalist%20Linkedin%20Banner%20(1).png" alt="GitHub Banner" style="width:100%;" />
 <h1 align="center">Hi 👋, I'm Syeda Um Ul Baneen Bukhari</h1>
 <h3 align="center">Software Engineer | AI Developer | NLP Enthusiast | Deep Learning Engineer | Python | Tensor Flow | Hugging Face</h3>
 
